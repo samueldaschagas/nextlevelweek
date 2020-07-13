@@ -5,15 +5,15 @@ Front-end da aplicação web <strong>Ecoleta</strong>, criado durante o evento <
 ### Iniciar projeto 
 1. No diretório do seu projeto, instale as dependências com o comando:
 
-`yarn` 
+    `yarn` 
 
 2. Rode o projeto:
 
-`yarn start`
+    `yarn start`
   
 3. Acesse a url para ir até a home:
  
- `http://localhost:3000`
+    `http://localhost:3000`
 
 
 ### Home
